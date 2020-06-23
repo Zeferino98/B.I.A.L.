@@ -1,0 +1,180 @@
+C:\Users\Aluno\Desktop\Nova pasta (3)\New Unity Project 1\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Aluno\Desktop\Nova pasta (3)\New Unity Project 1\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Aluno\Desktop\Nova pasta (3)\New Unity Project 1\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Aluno\Desktop\Nova pasta (3)\New Unity Project 1\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Aluno\Desktop\Nova pasta (3)\New Unity Project 1\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Aluno\Desktop\Nova pasta (3)\New Unity Project 1\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Aluno\Desktop\Nova pasta (3)\New Unity Project 1\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Aluno\Desktop\Nova pasta (3)\New Unity Project 1\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Aluno\Desktop\Nova pasta (3)\New Unity Project 1\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Aluno\Desktop\Nova pasta (3)\New Unity Project 1\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Aluno\Desktop\Nova pasta (3)\New Unity Project 1\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Aluno\Desktop\Nova pasta (3)\New Unity Project 1\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Aluno\Desktop\Nova pasta (3)\New Unity Project 1\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Aluno\Desktop\Nova pasta (3)\New Unity Project 1\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Aluno\Desktop\Nova pasta (3)\New Unity Project 1\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Aluno\Desktop\Nova pasta (3)\New Unity Project 1\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Aluno\Desktop\Nova pasta (3)\New Unity Project 1\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Aluno\Desktop\Nova pasta (3)\New Unity Project 1\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Aluno\Desktop\Nova pasta (3)\New Unity Project 1\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Aluno\Desktop\Nova pasta (3)\New Unity Project 1\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Aluno\Desktop\Nova pasta (3)\New Unity Project 1\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Nova pasta (3)\New Unity Project 1\obj\Debug\Assembly-CSharp.dll
+C:\Users\Aluno\Desktop\Nova pasta (3)\New Unity Project 1\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Aluno\Downloads\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Aluno\Downloads\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Aluno\Downloads\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Aluno\Downloads\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Aluno\Downloads\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Aluno\Downloads\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Aluno\Downloads\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Aluno\Downloads\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Aluno\Downloads\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Aluno\Downloads\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Aluno\Downloads\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Aluno\Downloads\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Aluno\Downloads\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Aluno\Downloads\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Aluno\Downloads\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Aluno\Downloads\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Aluno\Downloads\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Aluno\Downloads\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Aluno\Downloads\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Aluno\Downloads\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Aluno\Downloads\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Downloads\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\obj\Debug\Assembly-CSharp.dll
+C:\Users\Aluno\Downloads\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\obj\Debug\Assembly-CSharp.pdb
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\obj\Debug\Assembly-CSharp.dll
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\nunit.framework.dll
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEditor.dll
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEngine.dll
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEngine.xml
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEditor.xml
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\nunit.framework.xml
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\DarkLyon\Downloads\Bial\New Unity Project 1-20170503T111453Z-001\New Unity Project 1\obj\Debug\Assembly-CSharp.pdb
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\obj\Debug\Assembly-CSharp.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\nunit.framework.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\UnityEditor.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\UnityEngine.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\UnityEngine.xml
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\UnityEditor.xml
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\nunit.framework.xml
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\BIAL\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Anastácio\Desktop\BIAL\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Anastácio\Desktop\BIAL\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Anastácio\Desktop\BIAL\obj\Debug\Assembly-CSharp.dll
+C:\Users\Anastácio\Desktop\BIAL\obj\Debug\Assembly-CSharp.pdb
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\nunit.framework.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\UnityEditor.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\UnityEngine.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\UnityEngine.xml
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\UnityEditor.xml
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\nunit.framework.xml
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\obj\Debug\Assembly-CSharp.dll
+C:\Users\DarkLyon\Desktop\Faculdade\UNIDADE\Gravar no CD\Projeto Unity\BIAL\obj\Debug\Assembly-CSharp.pdb
